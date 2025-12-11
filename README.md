@@ -11,8 +11,10 @@ Customizable delay and number of messages
 Simple, lightweight, and beginner-friendly
 
 🛠️ Requirements
+
 Ensure the following libraries are installed:
 pip install pyautogui
+
 Python 3.6 or above is recommended.
 
 📁 How It Works
