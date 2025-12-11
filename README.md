@@ -26,7 +26,9 @@ Script begins typing and sending messages automatically
 ⚡ Customization
 You can modify the message count and text:
 
+
 for i in range(50):       # change message count
+
     pg.write("Your Message")  # change text
 
 Adjust time delay for slower or faster execution:
